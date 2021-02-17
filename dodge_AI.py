@@ -263,7 +263,7 @@ def AI_STATE():
         window.blit(alive, (10, 50))
 
         # alive
-        tran = FONT.render("Trianing...", 1, (120, 255, 120))
+        tran = FONT.render("Training...", 1, (120, 255, 120))
         window.blit(tran, (WIDTH / 2 - tran.get_width() /2,  HEIGHT - 50 ))
 
         pygame.display.update()
