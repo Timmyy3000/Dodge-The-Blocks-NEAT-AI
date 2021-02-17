@@ -11,7 +11,7 @@ For further information regarding general concepts and theory, please see
 
 -----
 
-This project is an implementation of NEAT to evolve an AI that plays a simple 2D Game ( Dodge the B that mimicks obstacle avoidance and range perception to extraordinary levels
+This project is an implementation of NEAT to evolve an AI that plays a 2D Game (Dodge the Blocks) that mimicks simple obstacle avoidance and range perception to extraordinary levels
 
 ### Game Mechanics
 The game environment is a simple 2D world where obstacles spawn and fall at intervals. The controls are binary (left or right)
